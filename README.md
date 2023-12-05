@@ -1,6 +1,8 @@
 # RECUPERAR-EFSI-SEMINARIO
 Este repositorio contiene el código de una aplicación web FullStack que se compone de un FrontEnd y un BackEnd...
 
+![Descripción de la imagen]([URL_de_la_imagen.png](https://eltallerdehector.com/wp-content/uploads/2021/08/Stitch-png-sin-Fondo.png))
+
 ## Partes
 
 ### FrontEnd
