@@ -1,7 +1,7 @@
 # RECUPERAR-EFSI-SEMINARIO
 Este repositorio contiene el código de una aplicación web FullStack que se compone de un FrontEnd y un BackEnd...
 
-![Untitled Diagram](Untitled Diagram.jpg)
+![Untitled Diagram](UntitledDiagram.jpg)
 
 ## Partes
 
