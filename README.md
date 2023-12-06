@@ -1,7 +1,7 @@
 # RECUPERAR-EFSI-SEMINARIO
 Este repositorio contiene el código de una aplicación web FullStack que se compone de un FrontEnd y un BackEnd...
 
-![Untitled Diagram](https://github.com/PioIX/RECUPERAR-EFSI-SEMINARIO-LAMALFA/assets/129954639/9ec1702b-f71a-4864-b24e-77f522be48fd)
+![Untitled Diagram](Untitled Diagram.jpg)
 
 ## Partes
 
